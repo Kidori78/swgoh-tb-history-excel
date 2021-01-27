@@ -1,0 +1,1 @@
+# swgoh-tb-history-excel
