@@ -55,6 +55,6 @@ Author: Kidori<br />
 Discord: https://discord.gg/pUWPaVhE2E<br />
 License: MIT
 
-<b>CREDITS</b>
+## CREDITS ##
 Uses VBA-Web and Dictionary classes created by Tim Hall.<br />
 HotBot and HotUtils created by HotSauce.
