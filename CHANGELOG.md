@@ -1,3 +1,6 @@
+# 2.1 #
+- Fixed Security issue where new workbook was trying to reference a cell in the main workbook.
+
 # 2.0 #
 Date: 1-26-2021
 - Fixed Error with VLOOKUP trying to look at old workbook for values.
