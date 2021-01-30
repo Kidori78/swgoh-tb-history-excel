@@ -1,3 +1,6 @@
+# 2.2 #
+- Removed the option to export the sheet to one tab. This option may come back in the future.
+
 # 2.1 #
 - Fixed Security issue where new workbook was trying to reference a cell in the main workbook.
 
